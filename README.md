@@ -1,3 +1,5 @@
+Curso: Next.js: El framework de React para producción, este es el proyecto final
+
 # Description
 
 this is a next prectice for the fernando herrera's course from nextjs
